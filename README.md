@@ -26,6 +26,7 @@
 - **[MusicGenerator](https://github.com/Conchylicultor/MusicGenerator)**：用 TensorFlow 试验多种深度学习音乐生成模型 🎶🧪（309 星）
 - **[MuseTree](https://github.com/stevenwaterman/musetree)**：适用于现实生活的 AI 音乐生成工具 🎵🌍（215 星）
 - **[VampNET](https://github.com/hugofloresgarcia/vampnet)**：使用遮罩变换器的音乐生成工具 🎶🦇（204 星）
+- **[voicetoinstrument.com](https://voicetoinstrument.com)**：用 AI 将人声转换为乐器音轨，支持多种乐器类型转换 🎵🎸
 
 ## Articles & Blogs
 
